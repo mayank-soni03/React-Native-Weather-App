@@ -1,6 +1,7 @@
 # Weather-App
 
 you can search and find the city's current weather status,
+
 this app provide next 7 days weather data,
 
 
